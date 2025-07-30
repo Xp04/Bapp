@@ -1,0 +1,7 @@
+For both training and testing the classes/categories that were used so far are:
+
+Acadian_Flycatcher
+American_Crow
+Anna_Hummingbird
+Baird_Sparrow
+Baltimore_Oriole
