@@ -2,10 +2,27 @@ For both training and testing the classes/categories that were used so far are:
 
 Acadian_Flycatcher
 American_Crow
+American_Goldfinch
+AMerican_Pipit
+American_Redstart
+American_Three_toed_Woodpecker
 Anna_Hummingbird
+Artic_Tern
 Baird_Sparrow
 Baltimore_Oriole
+Bank_Swallow
+Barn_Swallow
+Bay_breasted_Warbler
+Belted_Kingfisher
+Bewick_Wren
+Black_and_white_Warbler
+Black_billed_Cuckoo
+Black_capped_Vireo
+Black_footed_Albatross
+Black_Tern
+
 
 
 Data Set:
 https://www.kaggle.com/datasets/kedarsai/bird-species-classification-220-categories
+
